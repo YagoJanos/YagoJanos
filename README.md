@@ -1,6 +1,4 @@
-### Hi, I am Yago Janos :brazil:
-
-#### Java Developer :desktop_computer:
+### Hi, I am Yago Janos :brazil: :desktop_computer:
 
 Say HI to my cat :wink:
 
