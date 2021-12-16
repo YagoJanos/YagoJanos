@@ -13,6 +13,7 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Python" height="30" width="150" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img align="right" alt="ProfileCartoon" height="170" width="170" src="https://user-images.githubusercontent.com/73187867/146448413-c7eea454-99c5-4bbd-9ccd-32d9ffcd116d.png">
   
   
 </div>
